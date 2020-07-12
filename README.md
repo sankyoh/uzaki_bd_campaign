@@ -6,8 +6,10 @@ Dataset_SCMuzaki.xls
 There are two sheets in this file; the "Stata" sheet contains the data. The Stata-do and Jupyter Notebook files read this sheet for analysis. the "Codebook_Stata" sheet shows the meaning of each variable. This sheet is not used for analysis.
 
 Original data from...
-Number of blood donors by prefecture : http://www.jrc.or.jp/activity/blood/data/
-Population age 15 to 64 by prefecture: https://www.stat.go.jp/data/nihon/zuhyou/n200200600.xlsx
+<ul>
+<li>Number of blood donors by prefecture : http://www.jrc.or.jp/activity/blood/data/
+<li>Population age 15 to 64 by prefecture: https://www.stat.go.jp/data/nihon/zuhyou/n200200600.xlsx
+</ul>
 
 
 ## Stata-do files.
